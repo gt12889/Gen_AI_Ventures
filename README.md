@@ -24,3 +24,4 @@ There was limited understanding of the current AI-driven analysis landscape
 No clear structure existed for turning raw market data into actionable insights
 
 Because of this, the business lacked a reliable way to evaluate competitors, trends, and opportunities.
+<img width="1438" height="795" alt="image" src="https://github.com/user-attachments/assets/b3c1cf8a-c785-445b-bb03-dfaa37727a78" />
