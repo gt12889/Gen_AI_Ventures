@@ -1,5 +1,7 @@
-# Welcome to my GenAI Business Implementation project
+# Welcome to my GenAI Business Senior Capstone project BPS 4395.501.
 
+This project was completed in collaboration with a partner company, where I helped turn their business idea into a working web application. The goal was to take real business requirements, design a solution from scratch, and build a functional prototype that the company can continue developing after the course.
+This capstone was built for Amit, our sponsor, who shared their business idea and worked with me throughout the process. They provided feedback on the design, helped define the main features, and ensured the final product aligned with what they needed.
 
 This project is built with .
 
